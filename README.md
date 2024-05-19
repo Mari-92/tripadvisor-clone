@@ -1,5 +1,6 @@
-TripAdvisor-clone
-I have designed a clone of TripAdvisor using HTML and CSS, you've likely created a visually appealing and functional website for exploring and reviewing travel-related information. Certainly! If you've designed a clone of TripAdvisor using HTML and CSS, you've likely created a visually appealing and functional website for exploring and reviewing travel-related information. Here's a description you can use to highlight the key features and aspects of your TripAdvisor clone:
+TripAdvisor-clone\
+
+have designed a clone of TripAdvisor using HTML and CSS, you've likely created a visually appealing and functional website for exploring and reviewing travel-related information. Certainly! If you've designed a clone of TripAdvisor using HTML and CSS, you've likely created a visually appealing and functional website for exploring and reviewing travel-related information. Here's a description you can use to highlight the key features and aspects of your TripAdvisor clone:
 
 Welcome to Travel Explorer - Your Ultimate Travel Companion
 
